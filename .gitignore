@@ -1,4 +1,5 @@
 .venv
 .directory
 data/
+book/
 diagnostics.ipynb
